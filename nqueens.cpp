@@ -126,7 +126,7 @@ void NQueens::printBoard()
 int main()
 {
     // Example for N = 4
-    int N = 4;
+    int N = 5;
     NQueens nQueens(N);
     nQueens.solveNQueens();
 
